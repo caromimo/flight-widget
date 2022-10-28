@@ -55,3 +55,23 @@ h1 {
         transform: rotateX(0deg)
     }
 }
+
+#time {
+    width: 200px;
+}
+
+#destimation {
+    width: 800px;
+}
+
+#flight {
+    width: 205px;
+}
+
+#gate {
+    width: 200x;
+}
+
+#remarks {
+    width: 260x;
+}
